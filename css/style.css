@@ -2431,7 +2431,7 @@ textarea:focus {
 
 select {
   margin-bottom: 20px;
-  background: url(images/select-arrow.png) right center no-repeat;
+  background: url(../img/select-arrow.png) right center no-repeat;
   height: auto;
 }
 select option {
@@ -2442,7 +2442,7 @@ select:focus {
 }
 
 .de_light select {
-  background: url(images/select-arrow-invert.png) right center no-repeat;
+  background: url(../img/select-arrow-invert.png) right center no-repeat;
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -6970,7 +6970,7 @@ body .elementor-widget:not(:last-child) {
 }
 
 .site-overlay {
-  cursor: url(images/close.png) 16 16, default;
+  cursor: url(../img/close.png) 16 16, default;
   background: transparent;
   width: 100vw;
   height: 100vh;
